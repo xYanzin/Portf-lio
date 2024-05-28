@@ -8,9 +8,28 @@ body {
 
 }
 
+#pagina2 {
+    background: #091119;
+    padding: 20px;
+    color: white;
+
+}
+
+#texto2 {
+    text-align: right;
+}
+
+#rodape {
+    text-align: center;
+}
+
 a {
     color: #4b566a;
     text-decoration: none;
     font-weight: bold;
     padding: 59px;
+}
+
+.centralizar {
+    text-align: center;
 }
